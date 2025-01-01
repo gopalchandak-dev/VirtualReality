@@ -26,10 +26,10 @@ const Hero = () => {
 				our tools empower you to push boundaries and redefine what's
 				possible in virtual reality. Start creating the future today!
 			</p>
-			<div className="flex justify-center my-10">
+			<div className="flex justify-center my-10 ">
 				<a
 					href="#"
-					className="bg-gradient-to-r from-orange-500 to-red-900 py-3 px-4 mx-3 rounded-lg focus:ring-2 focus:ring-red-400  md:text-base "
+					className="bg-gradient-to-r from-orange-500 to-red-900 py-3 px-4  rounded-lg focus:ring-2 focus:ring-red-400  md:text-base text-xs "
 				>
 					Start for free
 				</a>
