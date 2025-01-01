@@ -2,6 +2,12 @@
 
 This is a modern web app built using **React** and **Tailwind CSS**, to showcase features and tools related to Virtual Reality. The app features smooth scroll navigation, interactive elements, and animated sections for an engaging user experience.
 
+## Live Demo
+
+You can view the live demo of this project at:
+
+https://virtual-reality-jet.vercel.app
+
 ## Features
 
 -   **Smooth Scroll Navigation**: Clicking on any navbar item smoothly scrolls to the corresponding section of the page.
