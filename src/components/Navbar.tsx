@@ -112,10 +112,10 @@ const Navbar = () => {
 								</li>
 							))}
 						</ul>
-						<div className="py-4 flex items-center w-full justify-between px-2   ">
+						<div className="py-4 flex items-center w-full justify-between  space-x-3">
 							<a
 								href="#"
-								className="py-2 px-3 border rounded-lg ml-10 "
+								className="py-2 px-3 border rounded-lg  "
 							>
 								Sign In
 							</a>
